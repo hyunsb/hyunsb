@@ -11,3 +11,9 @@ Jung Hyun Soo
     alt="Github Stats Card"
     height="160"
 /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunsb&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+    alt="Top Languages Card"
+/></a>
