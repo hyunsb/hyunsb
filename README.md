@@ -1,6 +1,9 @@
 # Jung Hyun Soo
 
-  
+Study
+
+
+ 
 <div display="flex">
   <!-- markdownlint-disable MD033 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
