@@ -1,7 +1,9 @@
 # Jung Hyun Soo
 
-Study
 
+<div text-align="center">
+ <h3>Study</h3>
+</div>
 
  
 <div display="flex">
