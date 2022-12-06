@@ -1,10 +1,6 @@
 # Jung Hyun Soo
 
 
-<div text-align="center">
- <h3>Study</h3>
-</div>
-
  
 <div display="flex">
   <!-- markdownlint-disable MD033 -->
