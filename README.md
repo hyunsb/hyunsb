@@ -1,5 +1,6 @@
-# Jung Hyun Soo
-
+<h1>Jung Hyun Soo</h1>
+<h4>Blog: https://hyunsb.tistory.com</h4>
+<h4>Mail: junghss0113@gmail.com</h4>
 
  
 <div display="flex">
@@ -18,5 +19,4 @@
   /></a>
 </div>
 
-Blog: https://hyunsb.tistory.com </br>
-Mail: junghss0113@gmail.com
+
