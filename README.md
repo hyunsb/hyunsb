@@ -17,3 +17,6 @@
       width="390"
   /></a>
 </div>
+
+Blog: https://hyunsb.tistory.com/
+Mail: junghss0113@gmail.com
