@@ -1,5 +1,5 @@
 <h1>Jung Hyun Soo</h1>
-<H4>Notion: https://hyunsb.notion.site/a894f04d15d042f09e8b398de646e5b6</h4>
+Notion: [개발 다이어리 - Hyunsb](https://hyunsb.notion.site/a894f04d15d042f09e8b398de646e5b6/)
 <h4>Blog: https://hyunsb.tistory.com</h4>
 <h4>Mail: junghss0113@gmail.com</h4>
 
