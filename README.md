@@ -2,10 +2,12 @@
 ⭐Notion: [[개발 다이어리 - Hyunsb]](https://hyunsb.notion.site/a894f04d15d042f09e8b398de646e5b6/)<br><br>
 📝Blog: [[개발 일기 - Tistory]](https://hyunsb.tistory.com/)<br><br>
 ✉Mail: junghss0113@gmail.com<br>
-</br></br>
+</br>
 
-<div align="center">
- <div><h2>Git State</h2></div>
+---
+
+<!-- <div align="center"> -->
+<!--  <div><h2>Git State</h2></div> -->
   <!-- markdownlint-disable MD033 -->
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
     <img
@@ -22,6 +24,6 @@
       width="350"
   /></a>
   
-</div>
+<!-- </div> -->
 
 
