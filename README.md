@@ -17,7 +17,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunsb&hide=Hack&hide_title=true&layout=compact&langs_count=5&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
       alt="Top Languages Card"
-      width="390"
+      width="340"
   /></a>
 </div>
 
