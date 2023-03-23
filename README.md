@@ -1,7 +1,7 @@
 # Jung Hyun Soo
-⭐Notion: [[개발 다이어리 - Hyunsb]](https://hyunsb.notion.site/a894f04d15d042f09e8b398de646e5b6/)<br><br>
-📝Blog: [[개발 일기 - Tistory]](https://hyunsb.tistory.com/)<br><br>
-✉Mail: junghss0113@gmail.com<br>
+- Notion: [[개발 다이어리 - Hyunsb]](https://hyunsb.notion.site/a894f04d15d042f09e8b398de646e5b6/)<br><br>
+- Blog: [[개발 일기 - Tistory]](https://hyunsb.tistory.com/)<br><br>
+- Mail: junghss0113@gmail.com<br>
 </br>
 
 
