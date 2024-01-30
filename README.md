@@ -1,6 +1,5 @@
 <div align="center">
-<!--   <h1>백엔드 개발자 정현수 입니다.</h1> -->
-  <h3>자바 백엔드 개발자 정현수입니다.</h3>
+  <h1>자바 백엔드 개발자 정현수입니다.</h1>
   <div>
     <p>Language</p>
     <img src="https://img.shields.io/badge/Java-E38836?style=flat&logo=openJdk&logoColor=white">
