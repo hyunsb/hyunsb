@@ -25,7 +25,7 @@
 
 <div align="center">
 <!--   <h1>백엔드 개발자 정현수 입니다.</h1> -->
-  <h3>✒ <a href="https://hyunsb.tistory.com/"> Tech Blog </a></h3>
+  <h3>----------✒ <a href="https://hyunsb.tistory.com/"> Tech Blog </a>----------</h3>
   <span>학습 내용을 나만의 언어로 정리하여 매주 최소 1회 이상 포스팅하고 있습니다.</span>
 </div>
 <br>
