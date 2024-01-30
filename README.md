@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Jung Hyun Soo</h1>
-  Blog: <a href="https://hyunsb.tistory.com/">[개발 일기 - Tistory]</a><br><br>
-  Mail: junghss0113@gmail.com<br>
+<!--   <h1>백엔드 개발자 정현수 입니다.</h1> -->
+  <h3>Tech Blog: <a href="https://hyunsb.tistory.com/">[개발 일기 - Tistory]</a></h3>
+  <h3>E-Mail: junghss0113@gmail.com<br></h3>
 </div>
 
 <br><br>
