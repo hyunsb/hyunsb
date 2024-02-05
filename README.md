@@ -1,6 +1,9 @@
-<div align="center">
-  <h1>자바 백엔드 개발자 정현수입니다.</h1>
+<div >
+  <h3>자바 백엔드 개발자 정현수입니다.</h3>
+  
+  ---
   <div>
+    <h3> 🛠️ Skills </h3>
     <p>Language</p>
     <img src="https://img.shields.io/badge/Java-E38836?style=flat&logo=openJdk&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3676E3?style=flat&logo=python&logoColor=white">
@@ -23,7 +26,7 @@
 </div>
 
 ---
-<div align="center">
+<div>
 <!--   <h1>백엔드 개발자 정현수 입니다.</h1> -->
   <h3>✒ <a href="https://hyunsb.tistory.com/"> Tech Blog </a></h3>
   <span>학습 내용을 나만의 언어로 정리하여 매주 최소 1회 이상 포스팅하고 있습니다.</span>
@@ -31,7 +34,7 @@
 <br>
 
 ---
-<div align="center">
+<div>
     <h3> 📄 Stats </h3>
   <p align=> 
     <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=hyunsb&hide_title=flase&include_all_commits=true&show_icons=true&hide_border=true&theme=onedark&title_color=446FC1&text_color=f0eee9&icon_color=446FC1" />
