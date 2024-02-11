@@ -6,7 +6,7 @@
     <h3> 🛠️ Skills </h3>
     <p>Language</p>
     <img src="https://img.shields.io/badge/Java-E38836?style=flat&logo=openJdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3676E3?style=flat&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python(sub)-3676E3?style=flat&logo=python&logoColor=white">
     <br><br>
     <p>Back-end</p>
     <img src="https://img.shields.io/badge/MySQL-08668E?style=flat&logo=mysql&logoColor=white">
