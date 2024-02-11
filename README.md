@@ -22,6 +22,7 @@
     <p>Communication</p>
     <img src="https://img.shields.io/badge/Git-F5512F?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Jira-2684ff?style=flat&logo=jira&logoColor=white">
   </div>
 </div>
 
