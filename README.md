@@ -4,11 +4,11 @@
   ---
   <div>
     <h3> 🛠️ Skills </h3>
-    <p>Language</p>
+    <br>
+    <p>Back-end</p>
     <img src="https://img.shields.io/badge/Java 17-E38836?style=flat&logo=openJdk&logoColor=white">
     <img src="https://img.shields.io/badge/Python(sub)-3676E3?style=flat&logo=python&logoColor=white">
-    <br><br>
-    <p>Back-end</p>
+    <br>
     <img src="https://img.shields.io/badge/MySQL 8-08668E?style=flat&logo=mysql&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Spring-00A109?style=flat&logo=spring&logoColor=white">
