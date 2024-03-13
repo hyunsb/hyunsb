@@ -5,19 +5,28 @@
   <div>
     <h3> 🛠️ Skills </h3>
     <p>Language</p>
-    <img src="https://img.shields.io/badge/Java-E38836?style=flat&logo=openJdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Java 17-E38836?style=flat&logo=openJdk&logoColor=white">
     <img src="https://img.shields.io/badge/Python(sub)-3676E3?style=flat&logo=python&logoColor=white">
     <br><br>
     <p>Back-end</p>
-    <img src="https://img.shields.io/badge/MySQL-08668E?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL 8-08668E?style=flat&logo=mysql&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Spring-00A109?style=flat&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-00A109?style=flat&logo=springBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot 3.2-00A109?style=flat&logo=springBoot&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-BAAE85?style=flat&logo=hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/JUnit5-2CA467?style=flat&logo=JUnit5&logoColor=white">
+    <br><br>
+    <p>Build & Test</p>
+    <img src="https://img.shields.io/badge/Gradle 8-2CA467?style=flat&logo=Gradle&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/JUnit5-2CA467?style=flat&logo=JUnit5&logoColor=white">
+    <img src="https://img.shields.io/badge/Mockito-2CA467?style=flat&logo=Mockito&logoColor=white">
+    <img src="https://img.shields.io/badge/JaCoCo-2CA467?style=flat&logo=Jacoco&logoColor=white">
+    <br><br>
+    <p>Infra & ETC.</p>
     <img src="https://img.shields.io/badge/AWS EC2-F58A3B?style=flat&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/S3-F58A3B?style=flat&logo=amazon s3&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS S3-F58A3B?style=flat&logo=amazon s3&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring REST Docs-00A109?style=flat&logo=spring&logoColor=white">
+    <br>
     <br><br>
     <p>Communication</p>
     <img src="https://img.shields.io/badge/Git-F5512F?style=flat&logo=git&logoColor=white">
