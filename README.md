@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/JaCoCo-2CA467?style=flat&logo=Jacoco&logoColor=white">
     <br><br>
     <p>Infra & ETC.</p>
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/AWS EC2-F58A3B?style=flat&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS S3-F58A3B?style=flat&logo=amazon s3&logoColor=white">
     <img src="https://img.shields.io/badge/Spring REST Docs-00A109?style=flat&logo=spring&logoColor=white">
