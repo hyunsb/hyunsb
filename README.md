@@ -40,7 +40,9 @@
 <div>
 <!--   <h1>백엔드 개발자 정현수 입니다.</h1> -->
   <h3>✒ <a href="https://hyunsb.tistory.com/"> Tech Blog </a></h3>
-  <span>경험과 고민들을 도식화하고 문서화하여 블로그에 포스팅하고 있습니다.</span>
+  <span>경험과 고민들을 도식화하고 문서화하여 블로그에 포스팅하고 있습니다.</span> <br>
+  <span> Link: <a href="https://hyunsb.tistory.com/"> Hyunsb 개발일기 </a></span>
+  
 </div>
 <br>
 
